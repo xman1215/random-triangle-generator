@@ -1,0 +1,2 @@
+import randit.(1,10)
+print("?")
